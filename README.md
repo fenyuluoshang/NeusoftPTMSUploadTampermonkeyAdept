@@ -1,1 +1,1 @@
-# NeusoftPTMSUploadTampermonkeyAdept
+# 适配过时了的毕设系统的文件上传接口的油猴脚本适配器

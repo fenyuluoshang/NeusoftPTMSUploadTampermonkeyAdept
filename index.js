@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  毕设系统文件上传修复适配性工具
 // @author       纷羽
-// @match        http://wls5.neusoft.edu.cn/ptms/
+// @match        http://wls5.neusoft.edu.cn/ptms/*
 // @grant        none
 // ==/UserScript==
 
